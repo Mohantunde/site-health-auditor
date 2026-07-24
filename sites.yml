@@ -1,0 +1,32 @@
+sites:
+  - name: Clean Planet Wellington
+    url: https://cleanplanetwellington.co.nz
+    enabled: true
+
+  - name: Finance Hub UK
+    url: https://financehubuk.com
+    enabled: true
+
+  - name: Money Hub India
+    url: https://moneyhubindia.com
+    enabled: true
+
+  - name: NZ Calculator
+    url: https://nzcalculator.co.nz
+    enabled: true
+
+  - name: US Finance Hub
+    url: https://usfinancehub.com
+    enabled: true
+
+  - name: Commercial Cleaning Wellington
+    url: https://commercialcleaningwellington.com
+    enabled: false
+
+  - name: Office Cleaning Wellington NZ
+    url: https://officecleaningwellington.co.nz
+    enabled: false
+
+  - name: Office Cleaning Wellington
+    url: https://officecleaningwellington.com
+    enabled: false

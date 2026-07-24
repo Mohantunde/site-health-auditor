@@ -1,0 +1,38 @@
+SITE HEALTH AUDITOR — CLEAN RESTART
+
+This package already contains the correct repository structure, including:
+
+.github/workflows/audit.yml
+.github/workflows/tests.yml
+.gitignore
+src/
+tests/
+README.md
+LICENSE
+
+RECOMMENDED UPLOAD METHOD: GITHUB DESKTOP
+
+1. Delete the incorrect GitHub repository, or create a new empty public repository
+   named: site-health-auditor
+2. Extract this ZIP file.
+3. Install/open GitHub Desktop.
+4. Choose File > Add local repository.
+5. Select the extracted folder: site-health-auditor-clean
+6. If prompted, choose "create a repository here".
+7. Commit all files with:
+   Initial release of Site Health Auditor
+8. Click Publish repository.
+9. Make sure "Keep this code private" is NOT selected.
+
+WINDOWS COMMAND-LINE ALTERNATIVE
+
+Double-click publish-to-github.bat after recreating the empty repository at:
+https://github.com/Mohantunde/site-health-auditor
+
+You must have Git installed and may be asked to sign in.
+
+IMPORTANT
+
+Do not upload this ZIP itself into GitHub.
+Do not rename .github or .gitignore.
+The leading dots are required and GitHub will display them normally.
